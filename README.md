@@ -1,6 +1,6 @@
 # 👨‍💻 Python Maestro | 🌐 Cybersecurity Enthusiast | 🔍 Penetration Tester & Bug Bounty Hunter
 
-Greetings! 👋 I'm [Juuf Software](https://www.linkedin.com/in/elimane-diouf-a1ba13267/), a seasoned Python/Django Developer driven by an insatiable passion for pushing the boundaries of technology. My playground is the intersection of cybersecurity, penetration testing, and bug bounty hunting.
+Greetings! 👋 I'm [Elimane Juuf](https://www.linkedin.com/in/elimane-diouf-a1ba13267/), a seasoned Python/Django Developer driven by an insatiable passion for pushing the boundaries of technology. My playground is the intersection of cybersecurity, penetration testing, and bug bounty hunting.
 
 ## 💡 What Sets Me Apart
 
