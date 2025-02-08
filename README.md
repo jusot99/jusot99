@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&multiline=true&width=800&height=100&lines=👨‍💻+Programmer+%7C+%F0%9F%8C%90+Cybersecurity+Enthusiast+%7C+;%F0%9F%94%8D+Penetration+Tester+%26+Bug+Bounty+Hunter)](https://git.io/typing-svg)
 
-Greetings! 👋 I'm [Elimane Juuf](https://www.linkedin.com/in/elimane-diouf-a1ba13267/), a passionate programmer, penetration tester, and cybersecurity enthusiast. I thrive at the intersection of coding and cybersecurity, continuously pushing the boundaries of what's possible.
+Greetings! 👋 I'm Elimane Juuf, a passionate programmer, penetration tester, and cybersecurity enthusiast. I thrive at the intersection of coding and cybersecurity, continuously pushing the boundaries of what's possible.
 
 ## 💡 What Sets Me Apart
 
@@ -39,7 +39,6 @@ In the world of technology, my skills blend programming prowess with a deep unde
 
 I'm always eager to collaborate on exciting projects, whether it involves coding, fortifying cybersecurity, or exploring innovative solutions. Let's connect and create impactful, secure digital experiences together.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elimane-diouf-a1ba13267/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/jusot99)
 
 Feel free to reach out for collaboration, discussions, or to explore how we can work together to make the digital world more secure!
