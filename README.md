@@ -1,44 +1,78 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&multiline=true&width=800&height=100&lines=👨‍💻+Programmer+%7C+%F0%9F%8C%90+Cybersecurity+Enthusiast+%7C+;%F0%9F%94%8D+Penetration+Tester+%26+Bug+Bounty+Hunter)](https://git.io/typing-svg)
+# Elimane Juuf
 
-Greetings! 👋 I'm Elimane Juuf, a passionate programmer, penetration tester, and cybersecurity enthusiast. I thrive at the intersection of coding and cybersecurity, continuously pushing the boundaries of what's possible.
+**Programmer | Penetration Tester | Bug Bounty Hunter**
 
-## 💡 What Sets Me Apart
+---
 
-In the world of technology, my skills blend programming prowess with a deep understanding of cybersecurity. I develop robust, secure applications and excel in uncovering and mitigating security vulnerabilities.
+> ## About Me
 
-## 💻 Technical Skills
+I began my career as a developer and have evolved into a cybersecurity professional specializing in secure programming, penetration testing, and bug bounty hunting. I build resilient software and continuously push the boundaries of ethical hacking to safeguard digital assets.
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&logoColor=white)
+> **Professional Philosophy**
+>
+> I am committed to rigorous security practices, continuous learning, and ethical standards in every project I undertake.
 
-## 🚀 Professional Highlights
+---
 
-- **Website Development:** Skilled in developing dynamic web applications using Python, Django, and Flask, ensuring seamless user experiences.
-- **Cybersecurity Expertise:** Experienced in implementing robust security measures and conducting penetration tests to identify and mitigate vulnerabilities.
-- **Penetration Testing:** Expertise in assessing system security and fortifying defenses against potential threats.
-- **Bug Bounty Hunter:** Actively engaged in finding and fixing security flaws, contributing to a safer online environment.
-- **Web Scraping:** Proficient in extracting valuable data through strategic web scraping techniques.
+## Technical Skills
 
-## 📊 GitHub Stats
+<a href="https://www.python.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://flask.palletsprojects.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://getbootstrap.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://www.linux.org/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://www.microsoft.com/windows">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://www.php.net/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
 
+---
+
+## Expertise
+
+- **Secure Programming:** Building resilient software that meets modern security challenges.
+- **Penetration Testing:** Conducting thorough assessments to identify and remediate vulnerabilities.
+- **Bug Bounty Hunting:** Proactively discovering and reporting security weaknesses.
+- **Ethical Hacking:** Upholding best practices to enhance system security.
+
+---
+
+> ## GitHub Stats
+>
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jusot99&show_icons=true&theme=dark)](https://github.com/jusot99)
-
-## 🌐 Connect with Me
-
-I'm always eager to collaborate on exciting projects, whether it involves coding, fortifying cybersecurity, or exploring innovative solutions. Let's connect and create impactful, secure digital experiences together.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/jusot99)
-
-Feel free to reach out for collaboration, discussions, or to explore how we can work together to make the digital world more secure!
