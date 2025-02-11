@@ -73,6 +73,8 @@ I began my career as a developer and have evolved into a cybersecurity professio
 
 ---
 
+> You can explore my online presence here: [Visit my digital platform](https://jusot99.github.io)
+
 > ## GitHub Stats
 >
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=jusot99&show_icons=true&theme=dark)](https://github.com/jusot99)
