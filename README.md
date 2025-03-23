@@ -5,7 +5,7 @@
 ---
 
 > ## About Me
-
+> 
 I began my career as a developer and have evolved into a cybersecurity professional specializing in secure programming, penetration testing, and bug bounty hunting. I build resilient software and continuously push the boundaries of ethical hacking to safeguard digital assets.
 
 > **Professional Philosophy**
