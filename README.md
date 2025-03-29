@@ -16,28 +16,37 @@ I began my career as a developer and have evolved into a cybersecurity professio
 
 ## Technical Skills
 
-<div style="text-align:center;">
-<a href="https://code.visualstudio.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.python.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.gnu.org/software/bash/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="width:50px; margin:5px; border-radius:50%;" />
-</a>        
-<a href="https://www.linux.org/">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.wireshark.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" alt="Wireshark" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50px" style="border-radius:50%;" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50px" style="border-radius:50%;" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50px" style="border-radius:50%;" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50px" style="border-radius:50%;" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50px" style="border-radius:50%;" />
+  </a>
+  <a href="https://nmap.org/">
+    <img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" alt="Nmap" width="50px" style="border-radius:50%;" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" width="50px" style="border-radius:50%;" />
+  </a>
+  <a href="https://www.metasploit.com/">
+    <img src="https://img.icons8.com/color/48/metasploit.png" alt="Metasploit" width="50px" style="border-radius:50%;" />
+  </a>
+  <a href="https://www.kali.org/">
+    <img src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" alt="Kali Linux" width="50px" style="border-radius:50%;" />
+  </a>
+  <a href="https://www.wireshark.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" alt="Wireshark" width="50px" style="border-radius:50%;" />
+  </a>
 </div>
 
 ---
