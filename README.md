@@ -16,51 +16,29 @@ I began my career as a developer and have evolved into a cybersecurity professio
 
 ## Technical Skills
 
+<div style="text-align:center;">
+<a href="https://code.visualstudio.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
 <a href="https://www.python.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width:50px; margin:5px; border-radius:50%;" />
 </a>
 <a href="https://www.gnu.org/software/bash/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" style="width:50px; margin:5px; border-radius:50%;" />
 </a>
-<a href="https://flask.palletsprojects.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://getbootstrap.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://tailwindcss.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.mongodb.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.mysql.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.docker.com/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.linux.org/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.microsoft.com/windows">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
-<a href="https://www.php.net/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" style="width:50px; margin:5px; border-radius:50%;" />
-</a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width:50px; margin:5px; border-radius:50%;" />
 </a>
+<a href="https://www.docker.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" style="width:50px; margin:5px; border-radius:50%;" />
+</a>        
+<a href="https://www.linux.org/">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+<a href="https://www.wireshark.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Icon.png" alt="Wireshark" style="width:50px; margin:5px; border-radius:50%;" />
+</a>
+</div>
 
 ---
 
