@@ -90,7 +90,7 @@ s = [x for x in c() if x.startswith('00')]
 print("Skill encoded in shadows. Decode if you dare." if len(s) > 3 else "Keep digging, no shortcuts here.")
 ```
 
-> 💡 [Check the patterns](https://github.com/jusot99) if you're serious.
+> 💡 [Check the patterns](https://jusot99.github.io) if you're serious.
 > The truth isn't printed — it's encrypted.
 
 ```markdown
