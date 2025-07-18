@@ -19,17 +19,11 @@ I operate with a hacker mindset: stealthy, precise, and always adapting. Whether
 ## Technical Skills
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50px" style="border-radius:50%;" />
-  </a>
   <a href="https://www.python.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50px" style="border-radius:50%;" />
   </a>
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50px" style="border-radius:50%;" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50px" style="border-radius:50%;" />
   </a>
   <a href="https://www.docker.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50px" style="border-radius:50%;" />
