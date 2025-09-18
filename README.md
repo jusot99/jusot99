@@ -125,4 +125,4 @@ print("Skill encoded in shadows. Decode if you dare." if len(s) > 3 else "Keep d
 
 > ## GitHub Stats
 >
-![jusot99's Stats](https://github-readme-stats.vercel.app/api?username=jusot99&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jusot99's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jusot99?cardType=github&theme=gruvbox&preferLogin=false)
