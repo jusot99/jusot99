@@ -60,7 +60,7 @@ I operate with a hacker mindset: stealthy, precise, and always adapting. Whether
 
 ## Tools I've Built
 
-* 🚀 **[loic](https://github.com/jusot99/pwnhub/blob/main/scripts/loic.py)** – Fast, multi-threaded DDoS simulation tool for educational use. Supports proxies, custom headers, and response logging. Built for safe stress testing and research.
+* 🚀 **[semok](https://github.com/jusot99/pwnhub/blob/main/scripts/semok.py)** – Fast, multi-threaded DDoS simulation tool for educational use. Supports proxies, custom headers, and response logging. Built for safe stress testing and research.
 * 🌐 **[dnsinfo](https://github.com/jusot99/pwnhub/blob/main/scripts/dnsinfo.py)** – DNS enumeration and analysis script to identify exposed DNS records, helping map an organization's external footprint and vulnerabilities.
 - 🐚 *(More coming soon...)*
 
