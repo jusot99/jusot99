@@ -114,7 +114,7 @@ print("Skill encoded in shadows. Decode if you dare." if len(s) > 3 else "Keep d
 
 ---
 
-## Contact / Hire Me
+## 💬 Get In Touch
 
 - 📫 **Email:** elimane.juuf@gmail.com  
 - 🌐 **Website:** [https://jusot99.github.io](https://jusot99.github.io)
