@@ -48,6 +48,13 @@ My work is driven by disciplined experimentation, tool‑building, and continuou
 
 ---
 
+### Featured Writeups
+
+- 🧠 **[HTB – CDNio (Web Cache Poisoning)](https://github.com/jusot99/pwnhub/blob/main/writeups/htb/challenges/cdnio.md)**  
+  Analysis of a chained cache poisoning vulnerability involving unsafe CDN caching, regex route bypass, and JWT worker desynchronization. Includes exploit automation and defensive remediation notes.
+
+---
+
 ### 🧩 Digital Challenge
 
 > **Think you understand hacking?**
