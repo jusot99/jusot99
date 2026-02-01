@@ -1,14 +1,14 @@
 # Elimane Juuf
 
-**_Offensive Security | Red Team Operations | Adversary Simulation_**
+**_Offensive Security Researcher_**
 
 ---
 
 ### Overview
 
-Offensive security practitioner with a foundation in software development and a strong focus on hands‑on attack simulation. I actively study and practice real‑world offensive techniques across web applications, internal networks, Active Directory environments, wireless systems, and Linux‑based infrastructures.
+Offensive security researcher with a foundation in software development and a strong focus on hands‑on attack simulation. I actively study and practice real‑world offensive techniques across web applications, internal networks, Active Directory environments, wireless systems, and Linux‑based infrastructures.
 
-My work is driven by disciplined experimentation, tool‑building, and continuous learning. I focus on understanding attacker behavior in depth — how systems fail, how defenses respond, and how small weaknesses compound into real security risks. I build and test in controlled environments with an emphasis on ethics, precision, and technical growth.
+My work is driven by disciplined experimentation, tool‑building, and continuous learning. I focus on understanding attacker behavior in depth, how systems fail, how defenses respond, and how small weaknesses compound into real security risks. I build and test in controlled environments with an emphasis on ethics, precision, and technical growth.
 
 ---
 
@@ -19,7 +19,6 @@ My work is driven by disciplined experimentation, tool‑building, and continuou
 - Active Directory attack paths, privilege escalation, and lateral movement  
 - Wireless security testing and internal threat simulation  
 - Secure development with focus on attack surface reduction  
-- Adversary emulation aligned with red team methodologies  
 - Custom tooling for reconnaissance, exploitation, and automation
 
 ---
