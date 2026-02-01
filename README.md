@@ -74,10 +74,10 @@ print("Skill encoded in shadows. Decode if you dare." if len(s) > 3 else "Keep d
 ```
 
 > 💡 [Check the patterns](https://jusot99.github.io) if you're serious.
-> The truth isn't printed — it's encrypted.
+> The truth isn't printed, it's encrypted.
 
 ```markdown
-> 🧠 The real patterns aren’t in the code — they’re on the wire.  
+> 🧠 The real patterns aren’t in the code, they’re on the wire.  
 > 💡 Trace the signals across my website. 
 > If you find what matters, you’ll know where to follow.
 ```
