@@ -6,7 +6,7 @@
 
 ### Overview
 
-Offensive security researcher with a foundation in software development and a strong focus on hands‑on attack simulation. I actively study and practice real‑world offensive techniques across web applications, internal networks, Active Directory environments, wireless systems, and Linux‑based infrastructures.
+Offensive security researcher with a software development background and a strong focus on hands‑on attack simulation. I actively study and practice real‑world offensive techniques across web applications, internal networks, Active Directory environments, wireless systems, and Linux‑based infrastructures.
 
 My work is driven by disciplined experimentation, tool‑building, and continuous learning. I focus on understanding attacker behavior in depth, how systems fail, how defenses respond, and how small weaknesses compound into real security risks. I build and test in controlled environments with an emphasis on ethics, precision, and technical growth.
 
