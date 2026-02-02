@@ -55,35 +55,6 @@ My work is driven by disciplined experimentation, tool‑building, and continuou
 
 ---
 
-### 🧩 Digital Challenge
-
-> **Think you understand hacking?**
-> Then try to decode the shadows I leave behind. This isn’t about certs or trophies.
-> It’s about mastery through silence, logic, and will.
-
-```python
-# Challenge: decrypt the essence behind mastery
-from hashlib import sha256 as h
-from itertools import product as p
-
-f = lambda s, r: [h((b+k).encode()).digest() for _ in range(r) for b,k in [s]][-1].hex()
-c = lambda: [f(x,7) for x in p(['AD','WiFi','Embedded','Web','Net'],['recon','pivot','exploit','evade','persist'])]
-s = [x for x in c() if x.startswith('00')]
-
-print("Skill encoded in shadows. Decode if you dare." if len(s) > 3 else "Keep digging, no shortcuts here.")
-```
-
-> 💡 [Check the patterns](https://jusot99.github.io) if you're serious.
-> The truth isn't printed, it's encrypted.
-
-```markdown
-> 🧠 The real patterns aren’t in the code, they’re on the wire.  
-> 💡 Trace the signals across my website. 
-> If you find what matters, you’ll know where to follow.
-```
-
----
-
 ### Signal
 
 > Operate quietly. Measure impact. Leave systems stronger than you found them. And always have a backup… or two. 😉
