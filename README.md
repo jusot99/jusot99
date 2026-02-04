@@ -72,9 +72,9 @@ My work is driven by disciplined experimentation, tool‑building, and continuou
 
 ## 💬 Get In Touch
 
-- 🌐 **Website:** [https://jusot99.github.io](https://jusot99.github.io)
-- 💻 Learn Hacking with Me on HTB Academy (Free): [Join via my referral link](https://referral.hackthebox.com/mzBAiBw)
-- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="20" style="vertical-align:middle; margin-right:6px;" /> **Discord:** [Elimane Juuf](https://discord.com/users/926985245763452928)
+- 🌐 **_Website:_** [https://jusot99.github.io](https://jusot99.github.io)
+- 💻 **_Join me on HTB Academy and level up your hacking skills:_** [https://referral.hackthebox.com/mzBAiBw](https://referral.hackthebox.com/mzBAiBw)
+- <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="20" style="vertical-align:middle; margin-right:6px;" /> **_Discord:_** [Elimane Juuf](https://discord.com/users/926985245763452928)
 
 ---
 
