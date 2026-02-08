@@ -1,14 +1,16 @@
 # Elimane D.
 
-**_Offensive Security Researcher_**
+**_Offensive Security Specialist_**
 
 ---
 
-### Overview
+### 👋 About
 
-Offensive security researcher with a software development background and a strong focus on hands‑on attack simulation. I actively study and practice real‑world offensive techniques across web applications, internal networks, Active Directory environments, wireless systems, and Linux‑based infrastructures.
+I focus on hands-on offensive security and practical penetration testing. Most of my time is spent breaking systems in controlled lab environments so I can understand how they fail and how to make them more secure.
 
-My work is driven by disciplined experimentation, tool‑building, and continuous learning. I focus on understanding attacker behavior in depth, how systems fail, how defenses respond, and how small weaknesses compound into real security risks. I build and test in controlled environments with an emphasis on ethics, precision, and technical growth.
+I work across Linux and Windows machines, web applications, internal networks, and identity-based environments, practicing real-world techniques like privilege escalation, lateral movement, and post-exploitation. I document what I learn through tools, scripts, and writeups that I share publicly.
+
+Everything here is built for learning, research, and improving security in a responsible and ethical way.
 
 ---
 
@@ -41,6 +43,7 @@ My work is driven by disciplined experimentation, tool‑building, and continuou
 
 ### Selected Work
 
+* 👉 🧰 **[pwnhub](https://github.com/jusot99/pwnhub)** → My main repository containing offensive security tools, scripts, and lab writeups
 * 🛡️ **[netlabguard](https://github.com/jusot99/pwnhub/blob/main/scripts/nlg.py)** → Enterprise-grade Linux network auditing toolkit with ARP discovery, MITM simulation, and device containment for authorized security testing.
 * 🚀 **[semok](https://github.com/jusot99/pwnhub/blob/main/scripts/semok.py)** → Multi-threaded network stress simulation tool built for controlled testing and research. Supports proxy chaining, header manipulation, and response analysis.
 * 🌐 **[dnsinfo](https://github.com/jusot99/pwnhub/blob/main/scripts/dnsinfo.py)** → DNS enumeration and analysis utility used to map exposed records and identify external attack surfaces.
