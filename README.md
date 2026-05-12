@@ -22,7 +22,3 @@ I study how systems fail in order to improve their resilience and security.
   Analysis of a chained cache poisoning vulnerability involving unsafe CDN caching, regex route bypass, and JWT worker desynchronization. Includes exploit automation and defensive remediation notes.
 
 > Operate quietly. Measure impact. Leave systems stronger than you found them. And always have a backup… or two. 😉
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jusot99&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
