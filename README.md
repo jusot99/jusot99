@@ -18,7 +18,7 @@ I study how systems fail in order to improve their resilience and security.
 
 ### Featured Writeups
 
-* 🧠 **[HTB CDNio (Web Cache Poisoning)](https://github.com/jusot99/jusotlabs/blob/main/writeups/htb/challenges/cdnio.md)**  
+* 🧠 **[HTB CDNio (Web Cache Poisoning)](https://github.com/jusot99/jusotlabs/blob/main/writeups/hackthebox/challenges/cdnio.md)**  
   Analysis of a chained cache poisoning vulnerability involving unsafe CDN caching, regex route bypass, and JWT worker desynchronization. Includes exploit automation and defensive remediation notes.
 
 > Operate quietly. Measure impact. Leave systems stronger than you found them. And always have a backup… or two. 😉
